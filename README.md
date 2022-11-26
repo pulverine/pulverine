@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pulverine
-- 👀 I’m a Front-end Web Developer.
+- 👀 I’m a Front-end Web Developer and a Python Developer.
 - 🌱 I’m currently learning react.js and flutter. 
 - 💞️ I’m looking to collaborate on projects using Python.
 - 📫 You can reach me on twitter at @basharsalaam.
