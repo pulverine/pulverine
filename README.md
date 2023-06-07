@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @pulverine
-- 👀 I’m a Front-end Web Developer and a Python Developer.
+- 👀 I’m a Front-end Web Developer, Python Developer and baby Data Analyst 👶
 - 🌱 I’m currently learning react.js and flutter. 
 - 💞️ I’m looking to collaborate on projects using Python.
-- 📫 You can reach me on twitter at @basharsalaam.
+- 📫 You can reach me on twitter and LinkedIn at @basharsalaam.
 
 <!---
 pulverine/pulverine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
