@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @pulverine
+- 👋 Hi, I’m Salam
 - 👀 I’m a Front-end Web Developer, Python Developer and baby Data Scientist 👶
 - 🌱 I’m currently learning react.js and flutter. 
-- 💞️ I’m looking to collaborate on projects using Python.
+- 💞️ I’m looking to collaborate on projects on Data Science.
 - 📫 You can reach me on twitter and LinkedIn at @basharsalaam.
 - Check out my Medium here medium.com/@basharsalaam.
 
