@@ -1,11 +1,7 @@
-- 👋 Hi, I’m Salam
-- 👀 I’m a Front-end Web Developer, Python Developer and baby Data Scientist 👶
-- 🌱 I’m currently learning react.js and flutter. 
-- 💞️ I’m looking to collaborate on projects on Data Science.
-- 📫 You can reach me on twitter and LinkedIn at @basharsalaam.
-- Check out my Medium here medium.com/@basharsalaam.
+-  Hello, my name is Salam.
+-  I’m a Data Scientist and ML Engineer
+-  I’m looking to collaborate on projects on Data Science.
+-  Reach me on twitter and LinkedIn at @basharsalaam.
+-  Check out my blog here https://medium.com/@basharsalaam.
 
-<!---
-pulverine/pulverine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
